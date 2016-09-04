@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # React Cropper for mobile and modern browser
 
 It will be the best cropper in the world for react.
@@ -942,3 +943,7 @@ Note that in order to support routers that use html5 `pushState` API, you may wa
 ## Something Missing?
 
 If you have ideas for more “How To” recipes that should be on this page, [let us know](https://github.com/facebookincubator/create-react-app/issues) or [contribute some!](https://github.com/facebookincubator/create-react-app/edit/master/template/README.md)
+=======
+# react-cropper
+Cropper for modern browser and mobile
+>>>>>>> 06565b65e7d181b4c70ca0a5f5bc328fdb9358be
