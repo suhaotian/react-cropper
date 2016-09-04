@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # React Cropper for mobile and modern browser
 
 It will be the best cropper in the world for react.
@@ -17,6 +16,11 @@ npm start
 ## Usage 
 
 See source **src/App.js**
+
+
+
+
+
 
 
 
